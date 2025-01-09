@@ -1,5 +1,5 @@
 # Drools course training materials
-[![Build](https://github.com/tienhuynh-tn/drools-training/actions/workflows/maven.yml/badge.svg)](https://github.com/tienhuynh-tn/drools-training/actions/workflows/maven.yml)
+[![Java CI with Maven](https://github.com/tienhuynh-tn/drools-training/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/tienhuynh-tn/drools-training/actions/workflows/maven.yml)
 
 This project is part of Drools video course 
 [Master Drools Programming—Learn How to Write Drools Rules](https://www.udemy.com/course/master-drools/?referralCode=ED7C311E09498C940742 "Click to go to Udemy course")
